@@ -1,0 +1,22 @@
+name: pol plana
+retention: 15.0
+two_weekly_expenses: 810.0
+two_weekly_gross_income: 2250.0
+two_weekly_net_income: 1912.5
+two_weekly_savings: 1102.5
+monthly_expenses: 1620.0
+monthly_gross_income: 4500.0
+monthly_net_income: 3825.0
+monthly_savings: 2205.0
+
+name: Adriana Gon
+retention: 24.0
+two_weekly_expenses: 810.0
+two_weekly_gross_income: 1500.0
+two_weekly_net_income: 1140.0
+two_weekly_savings: 330.0
+monthly_expenses: 1620.0
+monthly_gross_income: 3000.0
+monthly_net_income: 2280.0
+monthly_savings: 660.0
+
